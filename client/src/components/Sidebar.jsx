@@ -16,7 +16,7 @@ const Sidebar = () => {
     return (
         <>
             <div className="bg-primary-700 text-primary-200 flex justify-between md:hidden">
-                <a href="#" className="block p-4 text-white-text-bold">SchoolX</a>
+                <a href="/" className="block p-4 text-white-text-bold">SchoolX</a>
 
                 <button className="p-4" onClick={toggleSidebar}>
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
@@ -26,7 +26,7 @@ const Sidebar = () => {
             </div>
             <div className={`bg-primary-700 sm:w-44 md:w-64 space-y-24 px-2 py-4 text-primary-200 absolute inset-y-0 left-0 transform ${showSidebar} md:relative md:translate-x-0 transition duration-200 ease-in-out`}>
                 {/* logo */}
-                <a href="#" className="flex items-center space-x-2 px-4">
+                <a href="/" className="flex items-center space-x-2 px-4">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-10 w-10 text-green" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path d="M12 14l9-5-9-5-9 5 9 5z" />
                         <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />

@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "matricule": "21F1001",
+      "first_name": "John",
+      "last_name": "Ngwa",
+      "sex": "M",
+      "data_of_birth": "15/09/2010",
+      "place_of_birth": "Douala",
+      "fathers_name": "Ngwa Peter",
+      "fathers_contact": "123456789",
+      "fathers_profession": "Driver",
+      "mothers_name": "Njintou Mary",
+      "Mothers_contact": "987654321",
+      "mothers_profession": "House Wife",
+      "class": "Form 1 A"
+    },
+    {
+      "id": "2",
+      "matricule": "21F1002",
+      "first_name": "Mary",
+      "last_name": "Takam",
+      "sex": "F",
+      "data_of_birth": "01/04/2009",
+      "place_of_birth": "Bafoussam",
+      "fathers_name": "Takam Andre",
+      "fathers_contact": "123456789",
+      "fathers_profession": "Lawyer",
+      "mothers_name": "Kenfack Marthe",
+      "Mothers_contact": "987654321",
+      "mothers_profession": "State Agent",
+      "class": "Form 2 C"
+    },
+    {
+      "matricule": "21F1003",
+      "first_name": "Deby",
+      "last_name": "Ngu",
+      "sex": "F",
+      "data_of_birth": "15/09/2010",
+      "place_of_birth": "Yaounde",
+      "fathers_name": "Ngu Serge",
+      "fathers_contact": "123456789",
+      "fathers_profession": "Driver",
+      "mothers_name": "Ngu Simone",
+      "Mothers_contact": "987654321",
+      "mothers_profession": "House Wife",
+      "class": "Form 4 A",
+      "id": "tXxEtFz"
+    }
+  ]
+}
